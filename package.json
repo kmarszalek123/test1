@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "opis",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "klaudia",
+  "license": "ISC"
+}
